@@ -16,11 +16,7 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
   <component name="ProjectId" id="1OS4e0puO3ws4Fn076TRN6W1qUx" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -43,12 +39,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.con1.js">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FirstTest/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="con1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="con1.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.con1.js" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -63,8 +63,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563957755663</updated>
-      <workItem from="1563957758108" duration="11276000" />
-      <workItem from="1564340483551" duration="3000" />
+      <workItem from="1563957758108" duration="11792000" />
+      <workItem from="1564033885128" duration="5220000" />
+      <workItem from="1564088450766" duration="888000" />
+      <workItem from="1564090544647" duration="1534000" />
+      <workItem from="1564125319532" duration="6525000" />
+      <workItem from="1564304465210" duration="607000" />
+      <workItem from="1564332832251" duration="3296000" />
+      <workItem from="1564340120192" duration="53000" />
+      <workItem from="1564340206335" duration="117000" />
+      <workItem from="1564340380561" duration="62000" />
+      <workItem from="1564340460875" duration="4000" />
     </task>
     <servers />
   </component>
